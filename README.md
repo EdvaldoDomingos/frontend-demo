@@ -1,2 +1,1 @@
-# frontend-demo
-Modelo de Loja de Vendas
+Atividade - Alimentando um repositório remoto 
